@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Cookies!")
+            Text("Cookies 🍪 !")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundColor(Color(hue: 0.102, saturation: 0.86, brightness: 0.724))
