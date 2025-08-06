@@ -18,6 +18,8 @@ struct ContentView: View {
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
                 .padding(.all, 20.0)
+            Text("Cookie Monster")
+                .foregroundColor(Color.blue)
         }
     }
 }
